@@ -1,0 +1,18 @@
+.btn {
+  background-color: white;
+  border: none;
+  box-shadow: 0px 0px 8px black;
+  width: 100px;
+  height: 100px;
+  font-size: 70px;
+  text-align: center;
+  font-weight: bold;
+  font-family: "fredoka", "sans-serif";
+}
+.x {
+  color: red;
+}
+
+.o {
+  color: blue;
+}
